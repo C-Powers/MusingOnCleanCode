@@ -1,2 +1,2 @@
 # MusingOnCleanCode
-Musing on clean code
+This repo contains my thoughts, notes, and replicated examples from Clean Code.
